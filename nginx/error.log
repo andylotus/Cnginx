@@ -1,0 +1,11 @@
+2019/07/17 22:22:25 [stderr] 3182: nginx: CSocekt::Initialize()中bind()失败,i=0. (13: Permission denied) 
+2019/07/17 22:22:25 [stderr] 3182: nginx: program exit，bye!
+2019/07/17 22:22:48 [info] 3228: listen80port successfully!
+2019/07/17 22:22:48 [info] 3228: listen443port successfully!
+2019/07/17 22:22:48 [notice] 3229: master process ./nginx 3229 【master process】starts and begins to run......!
+2019/07/17 22:22:49 [notice] 3232: worker process 3232 【worker process】starts and begins to run......!
+2019/07/17 22:22:49 [notice] 3233: worker process 3233 【worker process】starts and begins to run......!
+2019/07/17 22:22:49 [notice] 3231: worker process 3231 【worker process】starts and begins to run......!
+2019/07/17 22:22:49 [notice] 3230: worker process 3230 【worker process】starts and begins to run......!
+2019/07/17 22:24:53 [stderr] 5000: nginx: CSocekt::Initialize()中bind()失败,i=0. (98: Address already in use) 
+2019/07/17 22:24:53 [stderr] 5000: nginx: program exit，bye!
